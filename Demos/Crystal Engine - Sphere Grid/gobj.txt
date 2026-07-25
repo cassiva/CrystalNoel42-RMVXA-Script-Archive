@@ -1,0 +1,69 @@
+
+-----
+Time: 2012-09-14 17:30:17 -0400
+Non-Critical Object #<Sprite:0xa37eb28>
+In Scene NilClass
+Caller:: 
+{0125}:724:in `create_background'
+{0125}:710:in `create_sphere_windows'
+{0125}:681:in `start'
+{0100}:12:in `main'
+{0127}:201:in `main'
+{0006}:23:in `run'
+{0131}:7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+{0131}:7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2012-09-14 17:31:31 -0400
+Non-Critical Object #<Sprite:0xa3665b4>
+In Scene NilClass
+Caller:: 
+{0125}:724:in `create_background'
+{0125}:710:in `create_sphere_windows'
+{0125}:681:in `start'
+{0100}:12:in `main'
+{0127}:201:in `main'
+{0006}:23:in `run'
+{0131}:7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+{0131}:7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2012-09-14 17:31:40 -0400
+Non-Critical Object #<Sprite:0xa326d60>
+In Scene NilClass
+Caller:: 
+{0125}:724:in `create_background'
+{0125}:710:in `create_sphere_windows'
+{0125}:681:in `start'
+{0100}:12:in `main'
+{0127}:201:in `main'
+{0006}:23:in `run'
+{0131}:7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+{0131}:7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2012-09-14 17:31:49 -0400
+Non-Critical Object #<Sprite:0xa2fb9e4>
+In Scene NilClass
+Caller:: 
+{0125}:724:in `create_background'
+{0125}:710:in `create_sphere_windows'
+{0125}:681:in `start'
+{0100}:12:in `main'
+{0127}:201:in `main'
+{0006}:23:in `run'
+{0131}:7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+{0131}:7:in `<main>'
+ruby:in `eval'

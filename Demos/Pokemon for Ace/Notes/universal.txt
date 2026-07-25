@@ -1,0 +1,145 @@
+﻿<advance pose: no move>
+<passive state: 98>
+self.ability == 91;
+state?(40);
+</passive state>
+<passive state: 99>
+self.ability == 91;
+state?(41);
+</passive state>
+<passive state: 100>
+self.ability == 91;
+state?(42);
+</passive state>
+<passive state: 101>
+self.ability == 91;
+state?(43);
+</passive state>
+<passive state: 102>
+self.ability == 91;
+state?(44);
+</passive state>
+<passive state: 103>
+self.ability == 91;
+state?(45);
+</passive state>
+<passive state: 104>
+self.ability == 91;
+state?(46);
+</passive state>
+<passive state: 105>
+self.ability == 91;
+state?(47);
+</passive state>
+<passive state: 106>
+self.ability == 91;
+state?(48);
+</passive state>
+<passive state: 107>
+self.ability == 91;
+state?(49);
+</passive state>
+<passive state: 108>
+self.ability == 91;
+state?(50);
+</passive state>
+<passive state: 109>
+self.ability == 91;
+state?(51);
+</passive state>
+<passive state: 110>
+self.ability == 91;
+state?(52);
+</passive state>
+<passive state: 111>
+self.ability == 91;
+state?(53);
+</passive state>
+<passive state: 112>
+self.ability == 91;
+state?(54);
+</passive state>
+<passive state: 113>
+self.ability == 91;
+state?(55);
+</passive state>
+<passive state: 114>
+self.ability == 91;
+state?(56);
+</passive state>
+<passive state: 115>
+self.ability == 91;
+state?(58);
+</passive state>
+<passive state: 115>
+self.ability == 91;
+state?(57);
+</passive state>
+<passive state: 97>
+self.ability == 91;
+state?(59);
+</passive state>
+<passive state: 122>
+self.ability == 91;
+state?(60);
+</passive state>
+<trait custom: debuff rate, 0, 0>
+self.ability == 29;
+</trait custom>
+<trait custom: debuff rate, 1, 0>
+self.ability == 29;
+</trait custom>
+<trait custom: debuff rate, 2, 0>
+self.ability == 29;
+</trait custom>
+<trait custom: debuff rate, 3, 0>
+self.ability == 145 || self.ability == 29;
+</trait custom>
+<trait custom: debuff rate, 4, 0>
+self.ability == 29;
+</trait custom>
+<trait custom: debuff rate, 5, 0>
+self.ability == 29;
+</trait custom>
+<trait custom: debuff rate, 6, 0>
+self.ability == 29;
+</trait custom>
+<trait custom: debuff rate, 7, 0>
+self.ability == 29;
+</trait custom>
+<trait custom: basic param, 2, 50>
+self.ability == 129;
+self.hp <= self.mhp / 2;
+</trait custom>
+<trait custom: basic param, 4, 50>
+self.ability == 129;
+self.hp <= self.mhp / 2;
+</trait custom>
+<passive state: 119>
+self.ability == 66;
+hp lower 33%;
+</passive state>
+<passive state: 200>
+self.ability == 87;
+</passive state>
+<trait custom: element rate, 2, 0>
+self.ability == 18;
+</trait custom>
+<passive state: 123>
+self.ability == 85;
+</passive state>
+<passive state: 124>
+self.ability == 37;
+</passive state>
+<passive state: 125>
+self.ability == 55;
+</passive state>
+<passive state: 126>
+self.ability == 52;
+</passive state>
+<passive state: 127>
+self.ability == 115;
+</passive state>
+<passive state: 128>
+self.ability == 17;
+</passive state>
