@@ -1,5 +1,6 @@
 # CrystalNoel42-RMVXA-Script-Archive
 An archive of CN42's scripts because they were difficult to get and may be impossible to get now otherwise.
+<br>If you have terms questions, I suspect [this person is CrystalNoel42](https://github.com/orsoFra), but don't quote me on that.
 # CrystalNoel42's Terms of Use
 [Original terms page](https://crystalnoel42.wordpress.com/terms-of-use/).
 ## Terms of Use
